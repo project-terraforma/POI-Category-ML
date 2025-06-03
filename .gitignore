@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+notes
+/.venv
+.virtual_documents
+data
+mlb.pkl
+yelp_cnn_model.pth
