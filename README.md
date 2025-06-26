@@ -162,4 +162,4 @@ Feel free to extend the code for deeper analysis or additional logging (e.g., Te
 
 **Author**: \[Nataniel Jayaseelan]
 
-**License**: MIT
+**License**: Apache 2.0
